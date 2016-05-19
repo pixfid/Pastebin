@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>4cs</key>
+	<string>4CS</string>
+	<key>6502acme</key>
+	<string>6502 ACME Cross Assembler</string>
+	<key>6502kickass</key>
+	<string>6502 Kick Assembler</string>
+	<key>6502tasm</key>
+	<string>6502 TASM/64TASS</string>
+	<key>68000devpac</key>
+	<string>Motorola 68000 HiSoft Dev</string>
+	<key>abap</key>
+	<string>ABAP</string>
+	<key>actionscript</key>
+	<string>ActionScript</string>
+	<key>actionscript3</key>
+	<string>ActionScript 3</string>
+	<key>ada</key>
+	<string>Ada</string>
+	<key>algol68</key>
+	<string>ALGOL 68</string>
+	<key>apache</key>
+	<string>Apache Log</string>
+	<key>applescript</key>
+	<string>AppleScript</string>
+	<key>apt_sources</key>
+	<string>APT Sources</string>
+	<key>arm</key>
+	<string>ARM</string>
+	<key>asm</key>
+	<string>ASM (NASM)</string>
+	<key>asp</key>
+	<string>ASP</string>
+	<key>asymptote</key>
+	<string>Asymptote</string>
+	<key>autoconf</key>
+	<string>autoconf</string>
+	<key>autohotkey</key>
+	<string>Autohotkey</string>
+	<key>autoit</key>
+	<string>AutoIt</string>
+	<key>avisynth</key>
+	<string>Avisynth</string>
+	<key>awk</key>
+	<string>Awk</string>
+	<key>bascomavr</key>
+	<string>BASCOM AVR</string>
+	<key>bash</key>
+	<string>Bash</string>
+	<key>basic4gl</key>
+	<string>Basic4GL</string>
+	<key>bf</key>
+	<string>BrainFuck</string>
+	<key>bibtex</key>
+	<string>BibTeX</string>
+	<key>blitzbasic</key>
+	<string>Blitz Basic</string>
+	<key>bnf</key>
+	<string>BNF</string>
+	<key>boo</key>
+	<string>BOO</string>
+	<key>c</key>
+	<string>C</string>
+	<key>c_loadrunner</key>
+	<string>C: Loadrunner</string>
+	<key>c_mac</key>
+	<string>C for Macs</string>
+	<key>caddcl</key>
+	<string>CAD DCL</string>
+	<key>cadlisp</key>
+	<string>CAD Lisp</string>
+	<key>cfdg</key>
+	<string>CFDG</string>
+	<key>cfm</key>
+	<string>ColdFusion</string>
+	<key>chaiscript</key>
+	<string>ChaiScript</string>
+	<key>cil</key>
+	<string>C Intermediate Language</string>
+	<key>clojure</key>
+	<string>Clojure</string>
+	<key>cmake</key>
+	<string>CMake</string>
+	<key>cobol</key>
+	<string>COBOL</string>
+	<key>coffeescript</key>
+	<string>CoffeeScript</string>
+	<key>cpp</key>
+	<string>C++</string>
+	<key>cpp-qt</key>
+	<string>C++ (with QT extensions)</string>
+	<key>csharp</key>
+	<string>C#</string>
+	<key>css</key>
+	<string>CSS</string>
+	<key>cuesheet</key>
+	<string>Cuesheet</string>
+	<key>d</key>
+	<string>D</string>
+	<key>dcl</key>
+	<string>DCL</string>
+	<key>dcpu16</key>
+	<string>DCPU-16</string>
+	<key>dcs</key>
+	<string>DCS</string>
+	<key>delphi</key>
+	<string>Delphi</string>
+	<key>diff</key>
+	<string>Diff</string>
+	<key>div</key>
+	<string>DIV</string>
+	<key>dos</key>
+	<string>DOS</string>
+	<key>dot</key>
+	<string>DOT</string>
+	<key>e</key>
+	<string>E</string>
+	<key>ecmascript</key>
+	<string>ECMAScript</string>
+	<key>eiffel</key>
+	<string>Eiffel</string>
+	<key>email</key>
+	<string>Email</string>
+	<key>epc</key>
+	<string>EPC</string>
+	<key>erlang</key>
+	<string>Erlang</string>
+	<key>f1</key>
+	<string>Formula One</string>
+	<key>falcon</key>
+	<string>Falcon</string>
+	<key>fo</key>
+	<string>FO Language</string>
+	<key>fortran</key>
+	<string>Fortran</string>
+	<key>freebasic</key>
+	<string>FreeBasic</string>
+	<key>freeswitch</key>
+	<string>FreeSWITCH</string>
+	<key>fsharp</key>
+	<string>F#</string>
+	<key>gambas</key>
+	<string>GAMBAS</string>
+	<key>gdb</key>
+	<string>GDB</string>
+	<key>genero</key>
+	<string>Genero</string>
+	<key>genie</key>
+	<string>Genie</string>
+	<key>gettext</key>
+	<string>GetText</string>
+	<key>glsl</key>
+	<string>OpenGL Shading</string>
+	<key>gml</key>
+	<string>Game Maker</string>
+	<key>gnuplot</key>
+	<string>Ruby Gnuplot</string>
+	<key>go</key>
+	<string>Go</string>
+	<key>groovy</key>
+	<string>Groovy</string>
+	<key>gwbasic</key>
+	<string>GwBasic</string>
+	<key>haskell</key>
+	<string>Haskell</string>
+	<key>haxe</key>
+	<string>Haxe</string>
+	<key>hicest</key>
+	<string>HicEst</string>
+	<key>hq9plus</key>
+	<string>HQ9 Plus</string>
+	<key>html4strict</key>
+	<string>HTML</string>
+	<key>html5</key>
+	<string>HTML 5</string>
+	<key>icon</key>
+	<string>Icon</string>
+	<key>idl</key>
+	<string>IDL</string>
+	<key>ini</key>
+	<string>INI file</string>
+	<key>inno</key>
+	<string>Inno Script</string>
+	<key>intercal</key>
+	<string>INTERCAL</string>
+	<key>io</key>
+	<string>IO</string>
+	<key>j</key>
+	<string>J</string>
+	<key>java</key>
+	<string>Java</string>
+	<key>java5</key>
+	<string>Java 5</string>
+	<key>javascript</key>
+	<string>JavaScript</string>
+	<key>jquery</key>
+	<string>jQuery</string>
+	<key>kixtart</key>
+	<string>KiXtart</string>
+	<key>klonec</key>
+	<string>Clone C</string>
+	<key>klonecpp</key>
+	<string>Clone C++</string>
+	<key>latex</key>
+	<string>Latex</string>
+	<key>lb</key>
+	<string>Liberty BASIC</string>
+	<key>ldif</key>
+	<string>LDIF</string>
+	<key>lisp</key>
+	<string>Lisp</string>
+	<key>llvm</key>
+	<string>LLVM</string>
+	<key>locobasic</key>
+	<string>Loco Basic</string>
+	<key>logtalk</key>
+	<string>Logtalk</string>
+	<key>lolcode</key>
+	<string>LOL Code</string>
+	<key>lotusformulas</key>
+	<string>Lotus Formulas</string>
+	<key>lotusscript</key>
+	<string>Lotus Script</string>
+	<key>lscript</key>
+	<string>LScript</string>
+	<key>lsl2</key>
+	<string>Linden Scripting</string>
+	<key>lua</key>
+	<string>Lua</string>
+	<key>m68k</key>
+	<string>M68000 Assembler</string>
+	<key>magiksf</key>
+	<string>MagikSF</string>
+	<key>make</key>
+	<string>Make</string>
+	<key>mapbasic</key>
+	<string>MapBasic</string>
+	<key>matlab</key>
+	<string>MatLab</string>
+	<key>mirc</key>
+	<string>mIRC</string>
+	<key>mmix</key>
+	<string>MIX Assembler</string>
+	<key>modula2</key>
+	<string>Modula 2</string>
+	<key>modula3</key>
+	<string>Modula 3</string>
+	<key>mpasm</key>
+	<string>MPASM</string>
+	<key>mxml</key>
+	<string>MXML</string>
+	<key>mysql</key>
+	<string>MySQL</string>
+	<key>nagios</key>
+	<string>Nagios</string>
+	<key>newlisp</key>
+	<string>newLISP</string>
+	<key>nsis</key>
+	<string>NullSoft Installer</string>
+	<key>oberon2</key>
+	<string>Oberon 2</string>
+	<key>objc</key>
+	<string>Objective C</string>
+	<key>objeck</key>
+	<string>Objeck Programming Langua</string>
+	<key>ocaml</key>
+	<string>OCaml</string>
+	<key>ocaml-brief</key>
+	<string>OCalm Brief</string>
+	<key>octave</key>
+	<string>Octave</string>
+	<key>oobas</key>
+	<string>Openoffice BASIC</string>
+	<key>oracle11</key>
+	<string>Oracle 11</string>
+	<key>oracle8</key>
+	<string>Oracle 8</string>
+	<key>oxygene</key>
+	<string>Delphi Prism (Oxygene)</string>
+	<key>oz</key>
+	<string>Oz</string>
+	<key>parasail</key>
+	<string>ParaSail</string>
+	<key>parigp</key>
+	<string>PARI/GP</string>
+	<key>pascal</key>
+	<string>Pascal</string>
+	<key>pawn</key>
+	<string>PAWN</string>
+	<key>pcre</key>
+	<string>PCRE</string>
+	<key>per</key>
+	<string>Per</string>
+	<key>perl</key>
+	<string>Perl</string>
+	<key>perl6</key>
+	<string>Perl 6</string>
+	<key>pf</key>
+	<string>OpenBSD PACKET FILTER</string>
+	<key>php</key>
+	<string>PHP</string>
+	<key>php-brief</key>
+	<string>PHP Brief</string>
+	<key>pic16</key>
+	<string>Pic 16</string>
+	<key>pike</key>
+	<string>Pike</string>
+	<key>pixelbender</key>
+	<string>Pixel Bender</string>
+	<key>plsql</key>
+	<string>PL/SQL</string>
+	<key>postgresql</key>
+	<string>PostgreSQL</string>
+	<key>povray</key>
+	<string>POV-Ray</string>
+	<key>powerbuilder</key>
+	<string>PowerBuilder</string>
+	<key>powershell</key>
+	<string>Power Shell</string>
+	<key>proftpd</key>
+	<string>ProFTPd</string>
+	<key>progress</key>
+	<string>Progress</string>
+	<key>prolog</key>
+	<string>Prolog</string>
+	<key>properties</key>
+	<string>Properties</string>
+	<key>providex</key>
+	<string>ProvideX</string>
+	<key>purebasic</key>
+	<string>PureBasic</string>
+	<key>pycon</key>
+	<string>PyCon</string>
+	<key>pys60</key>
+	<string>Python for S60</string>
+	<key>python</key>
+	<string>Python</string>
+	<key>q</key>
+	<string>q/kdb+</string>
+	<key>qbasic</key>
+	<string>QBasic</string>
+	<key>rails</key>
+	<string>Rails</string>
+	<key>rebol</key>
+	<string>REBOL</string>
+	<key>reg</key>
+	<string>REG</string>
+	<key>rexx</key>
+	<string>Rexx</string>
+	<key>robots</key>
+	<string>Robots</string>
+	<key>rpmspec</key>
+	<string>RPM Spec</string>
+	<key>rsplus</key>
+	<string>R</string>
+	<key>ruby</key>
+	<string>Ruby</string>
+	<key>sas</key>
+	<string>SAS</string>
+	<key>scala</key>
+	<string>Scala</string>
+	<key>scheme</key>
+	<string>Scheme</string>
+	<key>scilab</key>
+	<string>Scilab</string>
+	<key>sdlbasic</key>
+	<string>SdlBasic</string>
+	<key>smalltalk</key>
+	<string>Smalltalk</string>
+	<key>smarty</key>
+	<string>Smarty</string>
+	<key>spark</key>
+	<string>SPARK</string>
+	<key>sparql</key>
+	<string>SPARQL</string>
+	<key>sql</key>
+	<string>SQL</string>
+	<key>stonescript</key>
+	<string>StoneScript</string>
+	<key>systemverilog</key>
+	<string>SystemVerilog</string>
+	<key>tcl</key>
+	<string>TCL</string>
+	<key>teraterm</key>
+	<string>Tera Term</string>
+	<key>text</key>
+	<string>None</string>
+	<key>thinbasic</key>
+	<string>thinBasic</string>
+	<key>tsql</key>
+	<string>T-SQL</string>
+	<key>typoscript</key>
+	<string>TypoScript</string>
+	<key>unicon</key>
+	<string>Unicon</string>
+	<key>ups</key>
+	<string>UPC</string>
+	<key>urbi</key>
+	<string>Urbi</string>
+	<key>uscript</key>
+	<string>UnrealScript</string>
+	<key>vala</key>
+	<string>Vala</string>
+	<key>vb</key>
+	<string>VisualBasic</string>
+	<key>vbnet</key>
+	<string>VB.NET</string>
+	<key>vedit</key>
+	<string>Vedit</string>
+	<key>verilog</key>
+	<string>VeriLog</string>
+	<key>vhdl</key>
+	<string>VHDL</string>
+	<key>vim</key>
+	<string>VIM</string>
+	<key>visualfoxpro</key>
+	<string>VisualFoxPro</string>
+	<key>visualprolog</key>
+	<string>Visual Pro Log</string>
+	<key>whitespace</key>
+	<string>WhiteSpace</string>
+	<key>whois</key>
+	<string>WHOIS</string>
+	<key>winbatch</key>
+	<string>Winbatch</string>
+	<key>xbasic</key>
+	<string>XBasic</string>
+	<key>xml</key>
+	<string>XML</string>
+	<key>xorg_conf</key>
+	<string>Xorg Config</string>
+	<key>xpp</key>
+	<string>XPP</string>
+	<key>yaml</key>
+	<string>YAML</string>
+	<key>z80</key>
+	<string>Z80 Assembler</string>
+	<key>zxbasic</key>
+	<string>ZXBasic</string>
+</dict>
+</plist>
